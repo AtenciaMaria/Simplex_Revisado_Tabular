@@ -2,3 +2,4 @@ numpy
 colorama
 tabulate
 scipy
+matplotlib

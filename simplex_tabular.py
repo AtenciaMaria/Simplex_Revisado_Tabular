@@ -2,7 +2,6 @@ import numpy as np
 from colorama import Fore, init
 from tabulate import tabulate  # Librería para organizar la tabla
 from scipy.optimize import linprog
-import distutils
 import analisis_sensibilidad as ans
 
 # Inicializar colorama
